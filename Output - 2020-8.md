@@ -53,10 +53,10 @@ It only takes into account games played this season, looking at margin and quali
 |48|19|Pittsburgh(3-4)|25 from #128 FCS Team(55), 61 from #108 Syracuse(11), 53 from #98 Louisville(3), -20 from #17 NC State(-1), -27 from #26 Boston College(-1.0), -27 from #7 Miami(-12), -46 from #11 Notre Dame(-42)
 |49|0|New Mexico(0-0)|
 |50|0|Colorado State(0-0)|
-|51|0|Eastern Michigan(0-0)|
-|52|0|Kent State(0-0)|
-|53|0|Western Michigan(0-0)|
-|54|0|Akron(0-0)|
+|51|0|Western Michigan(0-0)|
+|52|0|Akron(0-0)|
+|53|0|Eastern Michigan(0-0)|
+|54|0|Kent State(0-0)|
 |55|0|Ohio(0-0)|
 |56|0|Central Michigan(0-0)|
 |57|0|Ball State(0-0)|
@@ -65,18 +65,18 @@ It only takes into account games played this season, looking at margin and quali
 |60|0|Northern Illinois(0-0)|
 |61|0|Bowling Green(0-0)|
 |62|0|Toledo(0-0)|
-|63|0|Stanford(0-0)|
-|64|0|Oregon(0-0)|
+|63|0|Arizona State(0-0)|
+|64|0|USC(0-0)|
 |65|0|Arizona(0-0)|
 |66|0|Utah(0-0)|
 |67|0|UCLA(0-0)|
 |68|0|Colorado(0-0)|
-|69|0|Washington State(0-0)|
-|70|0|Oregon State(0-0)|
-|71|0|Washington(0-0)|
-|72|0|California(0-0)|
-|73|0|Arizona State(0-0)|
-|74|0|USC(0-0)|
+|69|0|Stanford(0-0)|
+|70|0|Oregon(0-0)|
+|71|0|Washington State(0-0)|
+|72|0|Oregon State(0-0)|
+|73|0|Washington(0-0)|
+|74|0|California(0-0)|
 |75|-3|Troy(3-2)|31 from #124 Middle Tennessee(33), -25 from #3 BYU(-41), 38 from #120 Texas State(20), 11 from #128 FCS Team(2), -58 from #42 Georgia State(-2)
 |76|-29|Texas(3-2)|50 from #118 UTEP(56), 40 from #90 Texas Tech(1.0), -141 from #78 TCU(-2), -33 from #31 Oklahoma(-1.0), 56 from #109 Baylor(11)
 |77|-29|UT San Antonio(4-3)|15 from #120 Texas State(1.0), 19 from #128 FCS Team(14), 15 from #124 Middle Tennessee(2), -51 from #23 UAB(-8), -17 from #3 BYU(-7), -56 from #22 Army(-12), 47 from #83 Louisiana Tech(1)
@@ -130,4 +130,4 @@ It only takes into account games played this season, looking at margin and quali
 |125|-869|Vanderbilt(0-3)|-54 from #28 Texas A&M(-5), -403 from #114 LSU(-34), -411 from #113 South Carolina(-34)
 |126|-1458|Louisiana Monroe(0-6)|-68 from #22 Army(-30), -482 from #120 Texas State(-21), -460 from #118 UTEP(-25), -74 from #40 Georgia Southern(-5), -74 from #24 Liberty(-33), -300 from #101 South Alabama(-24)
 |127|-2372|Florida International(0-3)|-36 from #24 Liberty(-2), -435 from #124 Middle Tennessee(-3), -1901 from #128 FCS Team(-9)
-|128|-2550|FCS Team(1-27)|-54 from #23 UAB(-10), -36 from #6 Marshall(-59), -574 from #122 North Texas(-26), -379 from #118 UTEP(-10), -312 from #96 West Virginia(-46), -146 from #48 Pittsburgh(-55), -41 from #40 Georgia Southern(-1), -532 from #121 South Florida(-21), -98 from #31 Oklahoma(-48), -126 from #90 Texas Tech(-2), -20 from #2 Coastal Carolina(-22), -35 from #8 Cincinnati(-35), -181 from #77 UT San Antonio(-14), -21 from #1 Clemson(-49), -297 from #118 UTEP(-4), -46 from #12 Appalachian State(-31), -59 from #18 SMU(-43), -225 from #83 Louisiana Tech(-28), -60 from #15 Wake Forest(-52), -68 from #24 Liberty(-21), -69 from #22 Army(-32), -259 from #97 Florida State(-17), -45 from #22 Army(-5), -65 from #19 Arkansas State(-23), -101 from #75 Troy(-2), 1614 from #127 Florida International(9), -74 from #22 Army(-46), -240 from #116 Western Kentucky(-3)
+|128|-2550|FCS Team(1-27)|-54 from #23 UAB(-10), -36 from #6 Marshall(-59), -574 from #122 North Texas(-26), -379 from #118 UTEP(-10), -312 from #96 West Virginia(-46), -146 from #48 Pittsburgh(-55), -41 from #40 Georgia Southern(-1), -532 from #121 South Florida(-21), -98 from #31 Oklahoma(-48), -126 from #90 Texas Tech(-2), -20 from #2 Coastal Carolina(-22), -35 from #8 Cincinnati(-35), -181 from #77 UT San Antonio(-14), -21 from #1 Clemson(-49), -297 from #118 UTEP(-4), -46 from #12 Appalachian State(-31), -225 from #83 Louisiana Tech(-28), -59 from #18 SMU(-43), -60 from #15 Wake Forest(-52), -68 from #24 Liberty(-21), -69 from #22 Army(-32), -259 from #97 Florida State(-17), -45 from #22 Army(-5), -65 from #19 Arkansas State(-23), -101 from #75 Troy(-2), 1614 from #127 Florida International(9), -74 from #22 Army(-46), -240 from #116 Western Kentucky(-3)

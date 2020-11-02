@@ -48,31 +48,31 @@ It only takes into account games played this season, looking at margin and quali
 |43|0|Wisconsin(0-0)|
 |44|0|New Mexico(0-0)|
 |45|0|Colorado State(0-0)|
-|46|0|Nebraska(0-0)|
-|47|0|Ohio State(0-0)|
-|48|0|Rutgers(0-0)|
-|49|0|Michigan State(0-0)|
+|46|0|Rutgers(0-0)|
+|47|0|Michigan State(0-0)|
+|48|0|Nebraska(0-0)|
+|49|0|Ohio State(0-0)|
 |50|0|Penn State(0-0)|
 |51|0|Indiana(0-0)|
 |52|0|Iowa(0-0)|
 |53|0|Purdue(0-0)|
-|54|0|Utah State(0-0)|
-|55|0|Boise State(0-0)|
-|56|0|Wyoming(0-0)|
-|57|0|Nevada(0-0)|
-|58|0|Maryland(0-0)|
-|59|0|Northwestern(0-0)|
-|60|0|Hawai'i(0-0)|
-|61|0|Fresno State(0-0)|
-|62|0|Michigan(0-0)|
-|63|0|Minnesota(0-0)|
+|54|0|Wyoming(0-0)|
+|55|0|Nevada(0-0)|
+|56|0|Utah State(0-0)|
+|57|0|Boise State(0-0)|
+|58|0|Michigan(0-0)|
+|59|0|Minnesota(0-0)|
+|60|0|Maryland(0-0)|
+|61|0|Northwestern(0-0)|
+|62|0|Hawai'i(0-0)|
+|63|0|Fresno State(0-0)|
 |64|0|San José State(0-0)|
 |65|0|UNLV(0-0)|
 |66|0|San Diego State(0-0)|
-|67|0|Eastern Michigan(0-0)|
-|68|0|Kent State(0-0)|
-|69|0|Western Michigan(0-0)|
-|70|0|Akron(0-0)|
+|67|0|Western Michigan(0-0)|
+|68|0|Akron(0-0)|
+|69|0|Eastern Michigan(0-0)|
+|70|0|Kent State(0-0)|
 |71|0|Ohio(0-0)|
 |72|0|Central Michigan(0-0)|
 |73|0|Ball State(0-0)|
@@ -81,18 +81,18 @@ It only takes into account games played this season, looking at margin and quali
 |76|0|Northern Illinois(0-0)|
 |77|0|Bowling Green(0-0)|
 |78|0|Toledo(0-0)|
-|79|0|Stanford(0-0)|
-|80|0|Oregon(0-0)|
+|79|0|Arizona State(0-0)|
+|80|0|USC(0-0)|
 |81|0|Arizona(0-0)|
 |82|0|Utah(0-0)|
 |83|0|UCLA(0-0)|
 |84|0|Colorado(0-0)|
-|85|0|Washington State(0-0)|
-|86|0|Oregon State(0-0)|
-|87|0|Washington(0-0)|
-|88|0|California(0-0)|
-|89|0|Arizona State(0-0)|
-|90|0|USC(0-0)|
+|85|0|Stanford(0-0)|
+|86|0|Oregon(0-0)|
+|87|0|Washington State(0-0)|
+|88|0|Oregon State(0-0)|
+|89|0|Washington(0-0)|
+|90|0|California(0-0)|
 |91|-5|Georgia State(1-2)|-13 from #8 Louisiana(-1.0), 49 from #114 East Carolina(20), -42 from #18 Arkansas State(-7)
 |92|-29|Temple(1-1)|-45 from #32 Navy(-2), 17 from #123 South Florida(2)
 |93|-45|Oklahoma(2-2)|23 from #128 FCS Team(48), -43 from #25 Kansas State(-3), -52 from #24 Iowa State(-7), 26 from #107 Texas(1.0)
@@ -130,4 +130,4 @@ It only takes into account games played this season, looking at margin and quali
 |125|-689|LSU(1-2)|-468 from #122 Mississippi State(-10), 25 from #127 Vanderbilt(34), -246 from #113 Missouri(-4)
 |126|-1121|Louisiana Monroe(0-5)|-77 from #26 Army(-30), -486 from #121 Texas State(-21), -432 from #116 UTEP(-25), -55 from #29 Georgia Southern(-5), -70 from #22 Liberty(-33)
 |127|-1184|Vanderbilt(0-3)|-40 from #19 Texas A&M(-5), -851 from #125 LSU(-34), -293 from #97 South Carolina(-34)
-|128|-3734|FCS Team(0-25)|-52 from #21 UAB(-10), -38 from #7 Marshall(-59), -549 from #118 North Texas(-26), -355 from #116 UTEP(-10), -75 from #23 West Virginia(-46), -119 from #38 Pittsburgh(-55), -30 from #29 Georgia Southern(-1), -620 from #123 South Florida(-21), -294 from #93 Oklahoma(-48), -183 from #112 Texas Tech(-2), -25 from #4 Coastal Carolina(-22), -47 from #13 Cincinnati(-35), -245 from #98 UT San Antonio(-14), -22 from #1 Clemson(-49), -279 from #116 UTEP(-4), -91 from #31 Appalachian State(-31), -42 from #9 SMU(-43), -109 from #39 Louisiana Tech(-28), -111 from #36 Wake Forest(-52), -64 from #22 Liberty(-21), -78 from #26 Army(-32), -151 from #40 Florida State(-17), -51 from #26 Army(-5), -54 from #18 Arkansas State(-23), -48 from #34 Troy(-2)
+|128|-3734|FCS Team(0-25)|-52 from #21 UAB(-10), -38 from #7 Marshall(-59), -549 from #118 North Texas(-26), -355 from #116 UTEP(-10), -75 from #23 West Virginia(-46), -119 from #38 Pittsburgh(-55), -30 from #29 Georgia Southern(-1), -620 from #123 South Florida(-21), -294 from #93 Oklahoma(-48), -183 from #112 Texas Tech(-2), -25 from #4 Coastal Carolina(-22), -47 from #13 Cincinnati(-35), -245 from #98 UT San Antonio(-14), -22 from #1 Clemson(-49), -279 from #116 UTEP(-4), -91 from #31 Appalachian State(-31), -109 from #39 Louisiana Tech(-28), -42 from #9 SMU(-43), -111 from #36 Wake Forest(-52), -64 from #22 Liberty(-21), -78 from #26 Army(-32), -151 from #40 Florida State(-17), -51 from #26 Army(-5), -54 from #18 Arkansas State(-23), -48 from #34 Troy(-2)

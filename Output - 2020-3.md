@@ -39,9 +39,9 @@ It only takes into account games played this season, looking at margin and quali
 |34|0|Baylor(0-0)|
 |35|0|Houston(0-0)|
 |36|0|Florida Atlantic(0-0)|
-|37|0|Kentucky(0-0)|
-|38|0|Auburn(0-0)|
-|39|0|East Carolina(0-0)|
+|37|0|East Carolina(0-0)|
+|38|0|Kentucky(0-0)|
+|39|0|Auburn(0-0)|
 |40|0|Florida(0-0)|
 |41|0|Ole Miss(0-0)|
 |42|0|Florida International(0-0)|
@@ -65,31 +65,31 @@ It only takes into account games played this season, looking at margin and quali
 |60|0|Wisconsin(0-0)|
 |61|0|New Mexico(0-0)|
 |62|0|Colorado State(0-0)|
-|63|0|Nebraska(0-0)|
-|64|0|Ohio State(0-0)|
-|65|0|Rutgers(0-0)|
-|66|0|Michigan State(0-0)|
+|63|0|Rutgers(0-0)|
+|64|0|Michigan State(0-0)|
+|65|0|Nebraska(0-0)|
+|66|0|Ohio State(0-0)|
 |67|0|Penn State(0-0)|
 |68|0|Indiana(0-0)|
 |69|0|Iowa(0-0)|
 |70|0|Purdue(0-0)|
-|71|0|Utah State(0-0)|
-|72|0|Boise State(0-0)|
-|73|0|Wyoming(0-0)|
-|74|0|Nevada(0-0)|
-|75|0|Maryland(0-0)|
-|76|0|Northwestern(0-0)|
-|77|0|Hawai'i(0-0)|
-|78|0|Fresno State(0-0)|
-|79|0|Michigan(0-0)|
-|80|0|Minnesota(0-0)|
+|71|0|Wyoming(0-0)|
+|72|0|Nevada(0-0)|
+|73|0|Utah State(0-0)|
+|74|0|Boise State(0-0)|
+|75|0|Michigan(0-0)|
+|76|0|Minnesota(0-0)|
+|77|0|Maryland(0-0)|
+|78|0|Northwestern(0-0)|
+|79|0|Hawai'i(0-0)|
+|80|0|Fresno State(0-0)|
 |81|0|San José State(0-0)|
 |82|0|UNLV(0-0)|
 |83|0|San Diego State(0-0)|
-|84|0|Eastern Michigan(0-0)|
-|85|0|Kent State(0-0)|
-|86|0|Western Michigan(0-0)|
-|87|0|Akron(0-0)|
+|84|0|Western Michigan(0-0)|
+|85|0|Akron(0-0)|
+|86|0|Eastern Michigan(0-0)|
+|87|0|Kent State(0-0)|
 |88|0|Ohio(0-0)|
 |89|0|Central Michigan(0-0)|
 |90|0|Ball State(0-0)|
@@ -98,18 +98,18 @@ It only takes into account games played this season, looking at margin and quali
 |93|0|Northern Illinois(0-0)|
 |94|0|Bowling Green(0-0)|
 |95|0|Toledo(0-0)|
-|96|0|Stanford(0-0)|
-|97|0|Oregon(0-0)|
+|96|0|Arizona State(0-0)|
+|97|0|USC(0-0)|
 |98|0|Arizona(0-0)|
 |99|0|Utah(0-0)|
 |100|0|UCLA(0-0)|
 |101|0|Colorado(0-0)|
-|102|0|Washington State(0-0)|
-|103|0|Oregon State(0-0)|
-|104|0|Washington(0-0)|
-|105|0|California(0-0)|
-|106|0|Arizona State(0-0)|
-|107|0|USC(0-0)|
+|102|0|Stanford(0-0)|
+|103|0|Oregon(0-0)|
+|104|0|Washington State(0-0)|
+|105|0|Oregon State(0-0)|
+|106|0|Washington(0-0)|
+|107|0|California(0-0)|
 |108|-4|UAB(1-1)|17 from #128 FCS Team(10), -21 from #3 Miami(-17)
 |109|-12|UTEP(2-1)|17 from #128 FCS Team(10), -42 from #9 Texas(-56), 13 from #128 FCS Team(4)
 |110|-12|North Texas(1-1)|21 from #128 FCS Team(26), -33 from #7 SMU(-30)

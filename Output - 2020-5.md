@@ -55,31 +55,31 @@ It only takes into account games played this season, looking at margin and quali
 |50|0|Wisconsin(0-0)|
 |51|0|New Mexico(0-0)|
 |52|0|Colorado State(0-0)|
-|53|0|Nebraska(0-0)|
-|54|0|Ohio State(0-0)|
-|55|0|Rutgers(0-0)|
-|56|0|Michigan State(0-0)|
+|53|0|Rutgers(0-0)|
+|54|0|Michigan State(0-0)|
+|55|0|Nebraska(0-0)|
+|56|0|Ohio State(0-0)|
 |57|0|Penn State(0-0)|
 |58|0|Indiana(0-0)|
 |59|0|Iowa(0-0)|
 |60|0|Purdue(0-0)|
-|61|0|Utah State(0-0)|
-|62|0|Boise State(0-0)|
-|63|0|Wyoming(0-0)|
-|64|0|Nevada(0-0)|
-|65|0|Maryland(0-0)|
-|66|0|Northwestern(0-0)|
-|67|0|Hawai'i(0-0)|
-|68|0|Fresno State(0-0)|
-|69|0|Michigan(0-0)|
-|70|0|Minnesota(0-0)|
+|61|0|Wyoming(0-0)|
+|62|0|Nevada(0-0)|
+|63|0|Utah State(0-0)|
+|64|0|Boise State(0-0)|
+|65|0|Michigan(0-0)|
+|66|0|Minnesota(0-0)|
+|67|0|Maryland(0-0)|
+|68|0|Northwestern(0-0)|
+|69|0|Hawai'i(0-0)|
+|70|0|Fresno State(0-0)|
 |71|0|San José State(0-0)|
 |72|0|UNLV(0-0)|
 |73|0|San Diego State(0-0)|
-|74|0|Eastern Michigan(0-0)|
-|75|0|Kent State(0-0)|
-|76|0|Western Michigan(0-0)|
-|77|0|Akron(0-0)|
+|74|0|Western Michigan(0-0)|
+|75|0|Akron(0-0)|
+|76|0|Eastern Michigan(0-0)|
+|77|0|Kent State(0-0)|
 |78|0|Ohio(0-0)|
 |79|0|Central Michigan(0-0)|
 |80|0|Ball State(0-0)|
@@ -88,18 +88,18 @@ It only takes into account games played this season, looking at margin and quali
 |83|0|Northern Illinois(0-0)|
 |84|0|Bowling Green(0-0)|
 |85|0|Toledo(0-0)|
-|86|0|Stanford(0-0)|
-|87|0|Oregon(0-0)|
+|86|0|Arizona State(0-0)|
+|87|0|USC(0-0)|
 |88|0|Arizona(0-0)|
 |89|0|Utah(0-0)|
 |90|0|UCLA(0-0)|
 |91|0|Colorado(0-0)|
-|92|0|Washington State(0-0)|
-|93|0|Oregon State(0-0)|
-|94|0|Washington(0-0)|
-|95|0|California(0-0)|
-|96|0|Arizona State(0-0)|
-|97|0|USC(0-0)|
+|92|0|Stanford(0-0)|
+|93|0|Oregon(0-0)|
+|94|0|Washington State(0-0)|
+|95|0|Oregon State(0-0)|
+|96|0|Washington(0-0)|
+|97|0|California(0-0)|
 |98|-21|Virginia(1-1)|30 from #123 Duke(18), -51 from #17 Clemson(-18)
 |99|-32|Louisville(1-2)|35 from #119 Western Kentucky(14), -22 from #4 Miami(-13), -45 from #29 Pittsburgh(-3)
 |100|-33|Mississippi State(1-1)|37 from #117 LSU(10), -70 from #34 Arkansas(-7)
@@ -130,4 +130,4 @@ It only takes into account games played this season, looking at margin and quali
 |125|-575|Middle Tennessee(0-4)|-98 from #32 Army(-42), -124 from #44 Troy(-33), -55 from #40 UT San Antonio(-2), -299 from #119 Western Kentucky(-3)
 |126|-678|Vanderbilt(0-2)|-212 from #104 Texas A&M(-5), -466 from #117 LSU(-34)
 |127|-822|Louisiana Monroe(0-4)|-92 from #32 Army(-30), -349 from #111 Texas State(-21), -302 from #102 UTEP(-25), -79 from #43 Georgia Southern(-5)
-|128|-3871|FCS Team(0-22)|-36 from #12 UAB(-10), -58 from #15 Marshall(-59), -738 from #124 North Texas(-26), -249 from #102 UTEP(-10), -80 from #24 West Virginia(-46), -88 from #29 Pittsburgh(-55), -43 from #43 Georgia Southern(-1), -340 from #110 South Florida(-21), -355 from #105 Oklahoma(-48), -175 from #109 Texas Tech(-2), -29 from #6 Coastal Carolina(-22), -39 from #9 Cincinnati(-35), -96 from #40 UT San Antonio(-14), -62 from #17 Clemson(-49), -195 from #102 UTEP(-4), -107 from #38 Appalachian State(-31), -36 from #7 SMU(-43), -113 from #41 Louisiana Tech(-28), -369 from #106 Wake Forest(-52), -71 from #25 Liberty(-21), -93 from #32 Army(-32), -500 from #120 Florida State(-17)
+|128|-3871|FCS Team(0-22)|-36 from #12 UAB(-10), -58 from #15 Marshall(-59), -738 from #124 North Texas(-26), -249 from #102 UTEP(-10), -80 from #24 West Virginia(-46), -88 from #29 Pittsburgh(-55), -43 from #43 Georgia Southern(-1), -340 from #110 South Florida(-21), -355 from #105 Oklahoma(-48), -175 from #109 Texas Tech(-2), -29 from #6 Coastal Carolina(-22), -39 from #9 Cincinnati(-35), -96 from #40 UT San Antonio(-14), -62 from #17 Clemson(-49), -195 from #102 UTEP(-4), -107 from #38 Appalachian State(-31), -113 from #41 Louisiana Tech(-28), -36 from #7 SMU(-43), -369 from #106 Wake Forest(-52), -71 from #25 Liberty(-21), -93 from #32 Army(-32), -500 from #120 Florida State(-17)
